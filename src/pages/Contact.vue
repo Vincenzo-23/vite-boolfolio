@@ -1,7 +1,7 @@
 <template>
     <div class="container">
         <h1 class="text-center py-4">Contattaci</h1>
-        <form>
+        <form method="">
             <div class="form-group py-3">
                 <label for="name" class="py-2">Nome</label>
                 <input type="text" class="form-control" id="name" placeholder="Nome">
