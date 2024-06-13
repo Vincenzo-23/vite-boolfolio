@@ -17,7 +17,7 @@
                 <textarea name="message" id="message" rows="10" class="form-control" placeholder="Scrivi il tuo messaggio..."></textarea>
              </div>           
             
-            <button type="submit" class="btn btn-primary mt-3">Submit</button>
+            <button type="submit" class="btn btn-primary mt-3">Invia</button>
         </form>
     </div>
 </template>
